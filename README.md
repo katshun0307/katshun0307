@@ -1,4 +1,12 @@
-### Hi there 👋
+### Shuntaro Katsuda 👋
+
+Master's Course Student @ Computer Software Group, Graduate School of Informatics, Kyoto University
+
+### Interests
+
++ Programing Language Theory
++ Lambda Calculus
++ Logic
 
 <!--
 **katshun0307/katshun0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
