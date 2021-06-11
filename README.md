@@ -2,11 +2,27 @@
 
 Master's Course Student @ Computer Software Group, Graduate School of Informatics, Kyoto University
 
-### Interests
+### Research Topics
 
 + Programing Language Theory
 + Lambda Calculus
-+ Logic
+
+### Languages
+
+* Python
+* OCaml
+
+### Current Interests
+
+* Elixir
+* Phoenix
+* Nerves
+
+### SNS
+
+* Movies 🎥 [Letterboxd](https://letterboxd.com/katshun0307) 
+* Beer 🍺 [Untapped](https://untp.beer/mK210)
+* Reading 📖 [Booklog](https://booklog.jp/users/ktstr)
 
 <!--
 **katshun0307/katshun0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
