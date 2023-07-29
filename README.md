@@ -1,22 +1,25 @@
 ### Shuntaro Katsuda 👋
 
-Master's Course Student @ Computer Software Group, Graduate School of Informatics, Kyoto University
+(Now) Web Engineer 
+(2020-2022) Master's Course Student @ Computer Software Group, Graduate School of Informatics, Kyoto University
+
+### Languages
+
+* Python
+* OCaml
+* Typescript
 
 ### Research Topics
 
 + Programing Language Theory
 + Lambda Calculus
 
-### Languages
-
-* Python
-* OCaml
-
 ### Current Interests
 
 * Elixir
 * Phoenix
 * Nerves
+* GRPC
 
 ### SNS
 
