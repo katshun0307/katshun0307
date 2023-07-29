@@ -1,7 +1,7 @@
 ### Shuntaro Katsuda 👋
 
-(Now) Web Engineer 
-(2020-2022) Master's Course Student @ Computer Software Group, Graduate School of Informatics, Kyoto University
+- (Now) Web Engineer 
+- (2020-2022) Master's Course Student @ Computer Software Group, Graduate School of Informatics, Kyoto University
 
 ### Languages
 
