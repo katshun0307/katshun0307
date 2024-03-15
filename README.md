@@ -1,6 +1,7 @@
 ### Shuntaro Katsuda 👋
 
-- (Now) Web Engineer 
+- (2024-Current) Backend Engineer (Rust)
+- (2022-2024) Web Engineer (Python, Typescript)
 - (2020-2022) Master's Course Student @ Computer Software Group, Graduate School of Informatics, Kyoto University
 
 ### Languages
